@@ -3,10 +3,10 @@ def add(x,y):
     return x+y
 #Subtract implementation
 def subtract(x,y):
-    pass
+    return x-y			#Branch - Bug456
 # Multiply implementation
 def multiply(x,y):
-    pass
+    return x*y
 # Divide implementation
 def divide(x,y):
     pass
